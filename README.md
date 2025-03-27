@@ -22,35 +22,63 @@ The AI compares live data to its "memory" of normal patterns and calculates a ri
 
 In short: Generative AI acts like a virtual doctor that learns your unique health rhythm and warns you before issues escalate. 🩺🤖
 
-Running the Code (Athlete),"
-1. Open 3 terminals:
-Terminal 1: python sportsman/data_generator_sport.py
-Terminal 2: python sportsman/model_sport.py
-Terminal 3: python sportsman/real_time_predictor_sport.py
-2. Keep Terminals 1 & 3 running forever"
+# Running the Code
+🏃♂️ For Athletes:
+Open 3 separate terminal windows:
 
-Running the Code (Patient),"
-1. Open 3 terminals:
-Terminal 1: python sick/data_generator_sick.py
-Terminal 2: python sick/model_sick.py
-Terminal 3: python sick/real_time_predictor_sick.py
-2. Keep Terminals 1 & 3 running forever"
+1. Terminal 1: Generate simulated athlete data
+python sportsman/data_generator_sport.py  
+2. Terminal 2: Train the AI model
+python sportsman/model_sport.py
+3. Terminal 3: Start real-time monitoring
+python sportsman/real_time_predictor_sport.py
 
-Athlete Output Example :
+Keep running:
 
-=== ATHLETE REPORT ===
-✅ Normal Activity
-Steps: 150 | HR: 68 
-⚠️ Alert: Low Confidence (Check Rest)"
+Never close Terminal 1 (data generation)
 
-Patient Output Example : 
+Never close Terminal 3 (live monitoring)
 
-=== PATIENT ALERT ===
-🔴 Critical: Oxygen 89%
-HR: 128 | Temp: 38.6°C
-🚑 Action: Call Doctor Now"
+🏥 For Patients:
+Open 3 separate terminal windows:
 
-FAQ,"Q: Real phone data used?
-A: ❌ No! All data is fake/simulated.
-Q: Why two models?
-A: Athletes/patients have different 'normal' ranges."
+1. Terminal 1: Generate simulated patient data
+python sick/data_generator_sick.py  
+2. Terminal 2: Train the AI model
+python sick/model_sick.py
+3. Terminal 3: Start real-time monitoring
+python sick/real_time_predictor_sick.py
+
+Keep running:
+
+Never close Terminal 1 (data generation)
+
+Never close Terminal 3 (live monitoring)
+
+Example Outputs
+🏅 Athlete Report:
+=== ATHLETE HEALTH REPORT ===  
+✅ Status: Normal Activity  
+📊 Metrics:  
+- Steps: 150  
+- Heart Rate: 68 bpm  
+⚠️ Alert: Low Confidence Score Detected (Check Rest)
+
+🚑 Patient Alert:
+=== PATIENT CRITICAL ALERT ===  
+🔴 Status: High Risk  
+📊 Metrics:  
+- Oxygen: 89%  
+- Heart Rate: 128 bpm  
+- Temperature: 38.6°C  
+🆘 Action: Contact Healthcare Provider Immediately
+
+FAQ
+Q: Does this use real phone sensor data?
+❌ No! All data is simulated for testing.
+
+Q: Why are there two separate models?
+✅ Athletes and patients have fundamentally different "normal" health patterns. Separate models ensure accurate alerts for each group.
+
+Q: How do I stop the system?
+Press Ctrl + C in Terminals 1 & 3 to terminate the process.
