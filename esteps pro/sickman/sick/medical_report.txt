@@ -1,0 +1,434 @@
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 16:32:51
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 0 steps (Last hour)
+   - Status: Bedridden
+
+2. Cardiovascular:
+   - Heart Rate: 121 bpm (Tachycardia)
+   - Stability Index: 41/100
+
+3. Respiratory:
+   - Oxygen Saturation: 90% (Concerning)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 38.3°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 79.0%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+• Administer antipyretics
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 16:42:54
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 5 steps (Last hour)
+   - Status: Limited
+
+2. Cardiovascular:
+   - Heart Rate: 72 bpm (Normal)
+   - Stability Index: 39/100
+
+3. Respiratory:
+   - Oxygen Saturation: 95% (Normal)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 37.8°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 81.2%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 16:52:57
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 5 steps (Last hour)
+   - Status: Limited
+
+2. Cardiovascular:
+   - Heart Rate: 84 bpm (Normal)
+   - Stability Index: 41/100
+
+3. Respiratory:
+   - Oxygen Saturation: 89% (Concerning)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 38.0°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 79.3%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 17:03:01
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 0 steps (Last hour)
+   - Status: Bedridden
+
+2. Cardiovascular:
+   - Heart Rate: 81 bpm (Normal)
+   - Stability Index: 46/100
+
+3. Respiratory:
+   - Oxygen Saturation: 95% (Normal)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 37.9°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 72.3%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 17:13:04
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 0 steps (Last hour)
+   - Status: Bedridden
+
+2. Cardiovascular:
+   - Heart Rate: 78 bpm (Normal)
+   - Stability Index: 41/100
+
+3. Respiratory:
+   - Oxygen Saturation: 92% (Normal)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 37.8°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 79.3%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 17:23:07
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 15 steps (Last hour)
+   - Status: Mobile
+
+2. Cardiovascular:
+   - Heart Rate: 85 bpm (Normal)
+   - Stability Index: 49/100
+
+3. Respiratory:
+   - Oxygen Saturation: 93% (Normal)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 37.7°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 68.4%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 17:33:10
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 10 steps (Last hour)
+   - Status: Limited
+
+2. Cardiovascular:
+   - Heart Rate: 118 bpm (Tachycardia)
+   - Stability Index: 40/100
+
+3. Respiratory:
+   - Oxygen Saturation: 92% (Normal)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 38.1°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 80.4%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+
+• Administer antipyretics
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 17:43:13
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 5 steps (Last hour)
+   - Status: Limited
+
+2. Cardiovascular:
+   - Heart Rate: 83 bpm (Normal)
+   - Stability Index: 38/100
+
+3. Respiratory:
+   - Oxygen Saturation: 89% (Concerning)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 37.3°C (Normal)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 83.0%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 17:53:16
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 0 steps (Last hour)
+   - Status: Bedridden
+
+2. Cardiovascular:
+   - Heart Rate: 82 bpm (Normal)
+   - Stability Index: 43/100
+
+3. Respiratory:
+   - Oxygen Saturation: 94% (Normal)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 38.1°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 76.2%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+
+• Administer antipyretics
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 18:03:19
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 15 steps (Last hour)
+   - Status: Mobile
+
+2. Cardiovascular:
+   - Heart Rate: 81 bpm (Normal)
+   - Stability Index: 46/100
+
+3. Respiratory:
+   - Oxygen Saturation: 86% (Critical)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 38.4°C (High fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 71.6%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+• Administer antipyretics
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 18:13:22
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 10 steps (Last hour)
+   - Status: Limited
+
+2. Cardiovascular:
+   - Heart Rate: 90 bpm (Normal)
+   - Stability Index: 41/100
+
+3. Respiratory:
+   - Oxygen Saturation: 90% (Concerning)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 37.4°C (Normal)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 78.4%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 18:23:26
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 0 steps (Last hour)
+   - Status: Bedridden
+
+2. Cardiovascular:
+   - Heart Rate: 116 bpm (Tachycardia)
+   - Stability Index: 44/100
+
+3. Respiratory:
+   - Oxygen Saturation: 91% (Concerning)
+   - Trend: ↑ Improving
+
+4. Thermal Regulation:
+   - Core Temp: 38.0°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 74.7%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 18:33:29
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 0 steps (Last hour)
+   - Status: Bedridden
+
+2. Cardiovascular:
+   - Heart Rate: 111 bpm (Tachycardia)
+   - Stability Index: 38/100
+
+3. Respiratory:
+   - Oxygen Saturation: 91% (Concerning)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 37.3°C (Normal)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 82.0%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+
+
+============================================
+
+============================================
+       MEDICAL ALERT REPORT
+       2025-03-27 18:43:32
+============================================
+
+CRITICAL METRICS:
+1. Mobility: 5 steps (Last hour)
+   - Status: Limited
+
+2. Cardiovascular:
+   - Heart Rate: 74 bpm (Normal)
+   - Stability Index: 45/100
+
+3. Respiratory:
+   - Oxygen Saturation: 92% (Concerning)
+   - Trend: ↓ Worsening
+
+4. Thermal Regulation:
+   - Core Temp: 37.8°C (Low-grade fever)
+
+ANOMALY DETECTION:
+• System Confidence: Medium
+• Risk Score: 73.6%
+
+RECOMMENDED ACTIONS:
+• Notify healthcare provider
+• Check oxygen supply
+
+
+============================================

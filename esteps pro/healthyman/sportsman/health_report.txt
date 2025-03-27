@@ -1,0 +1,40 @@
+
+============================================
+          ATHLETE HEALTH REPORT
+          2025-03-27 15:48:18
+============================================
+
+VITAL SIGNS:
+• Steps: 110.0 (Normal range: 50-200)
+• Heart Rate: 64.0 bpm (Resting norm: 45-70)
+• Blood Oxygen: 97.0% (Healthy: >94%)
+• Core Temp: 36.4°C (Safe range: 36.0-37.5°C)
+
+MODEL ANALYSIS:
+• Anomaly Detection Score: 37.54 (Lower is better)
+• System Confidence: Low
+
+RECOMMENDATIONS:
+✅ All metrics within normal ranges. Maintain current routine.
+
+============================================
+
+============================================
+          ATHLETE HEALTH REPORT
+          2025-03-27 15:58:21
+============================================
+
+VITAL SIGNS:
+• Steps: 110.0 (Normal range: 50-200)
+• Heart Rate: 68.0 bpm (Resting norm: 45-70)
+• Blood Oxygen: 96.0% (Healthy: >94%)
+• Core Temp: 36.6°C (Safe range: 36.0-37.5°C)
+
+MODEL ANALYSIS:
+• Anomaly Detection Score: 39.79 (Lower is better)
+• System Confidence: Low
+
+RECOMMENDATIONS:
+✅ All metrics within normal ranges. Maintain current routine.
+
+============================================
