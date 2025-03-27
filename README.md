@@ -26,11 +26,11 @@ In short: Generative AI acts like a virtual doctor that learns your unique healt
 🏃♂️ For Athletes:
 Open 3 separate terminal windows:
 
-1. Terminal 1: Generate simulated athlete data
+1. Terminal 1: Generate simulated athlete data :
 python sportsman/data_generator_sport.py  
-2. Terminal 2: Train the AI model
+2. Terminal 2: Train the AI model :
 python sportsman/model_sport.py
-3. Terminal 3: Start real-time monitoring
+3. Terminal 3: Start real-time monitoring :
 python sportsman/real_time_predictor_sport.py
 
 Keep running:
@@ -42,11 +42,11 @@ Never close Terminal 3 (live monitoring)
 🏥 For Patients:
 Open 3 separate terminal windows:
 
-1. Terminal 1: Generate simulated patient data
+1. Terminal 1: Generate simulated patient data :
 python sick/data_generator_sick.py  
-2. Terminal 2: Train the AI model
+2. Terminal 2: Train the AI model :
 python sick/model_sick.py
-3. Terminal 3: Start real-time monitoring
+3. Terminal 3: Start real-time monitoring :
 python sick/real_time_predictor_sick.py
 
 Keep running:
