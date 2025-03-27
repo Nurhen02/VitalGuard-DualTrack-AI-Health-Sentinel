@@ -24,25 +24,27 @@ In short: Generative AI acts like a virtual doctor that learns your unique healt
 
 Running the Code (Athlete),"
 1. Open 3 terminals:
-   Terminal 1: python sportsman/data_generator_sport.py
-   Terminal 2: python sportsman/model_sport.py
-   Terminal 3: python sportsman/real_time_predictor_sport.py
+Terminal 1: python sportsman/data_generator_sport.py
+Terminal 2: python sportsman/model_sport.py
+Terminal 3: python sportsman/real_time_predictor_sport.py
 2. Keep Terminals 1 & 3 running forever"
 
 Running the Code (Patient),"
 1. Open 3 terminals:
-   Terminal 1: python sick/data_generator_sick.py
-   Terminal 2: python sick/model_sick.py
-   Terminal 3: python sick/real_time_predictor_sick.py
+Terminal 1: python sick/data_generator_sick.py
+Terminal 2: python sick/model_sick.py
+Terminal 3: python sick/real_time_predictor_sick.py
 2. Keep Terminals 1 & 3 running forever"
 
-Athlete Output Example,"
+Athlete Output Example :
+
 === ATHLETE REPORT ===
 ✅ Normal Activity
 Steps: 150 | HR: 68 
 ⚠️ Alert: Low Confidence (Check Rest)"
 
-Patient Output Example,"
+Patient Output Example : 
+
 === PATIENT ALERT ===
 🔴 Critical: Oxygen 89%
 HR: 128 | Temp: 38.6°C
