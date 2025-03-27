@@ -56,29 +56,41 @@ Never close Terminal 1 (data generation)
 Never close Terminal 3 (live monitoring)
 
 Example Outputs
+
 🏅 Athlete Report:
+
 === ATHLETE HEALTH REPORT ===  
+
 ✅ Status: Normal Activity  
+
 📊 Metrics:  
 - Steps: 150  
-- Heart Rate: 68 bpm  
+- Heart Rate: 68 bpm
+   
 ⚠️ Alert: Low Confidence Score Detected (Check Rest)
 
 🚑 Patient Alert:
-=== PATIENT CRITICAL ALERT ===  
+
+=== PATIENT CRITICAL ALERT === 
+
 🔴 Status: High Risk  
+
 📊 Metrics:  
 - Oxygen: 89%  
 - Heart Rate: 128 bpm  
-- Temperature: 38.6°C  
+- Temperature: 38.6°C
+  
 🆘 Action: Contact Healthcare Provider Immediately
 
 FAQ
 Q: Does this use real phone sensor data?
+
 ❌ No! All data is simulated for testing.
 
 Q: Why are there two separate models?
+
 ✅ Athletes and patients have fundamentally different "normal" health patterns. Separate models ensure accurate alerts for each group.
 
 Q: How do I stop the system?
+
 Press Ctrl + C in Terminals 1 & 3 to terminate the process.
